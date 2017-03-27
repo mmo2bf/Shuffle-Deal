@@ -17,7 +17,6 @@ namespace ETSInterview_ohara
     class Deck
     {
 
-
         // Create new deck using List
         public static List<makeCard.Card> makeDeck()
         {
